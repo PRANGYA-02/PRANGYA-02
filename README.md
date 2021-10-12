@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+I am Prangya Parimita Satpathy.My main interest lies in python and computer vision.l am always curious to learn new things.
+- 🔭 I’m currently working on python.
+- 🌱 I’m currently learning python.
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m looking for help with internships.
+- 💬 Ask me about basics of python.
+- 📫 How to reach me: https://www.linkedin.com/in/prangya-parimita-satpathy-673a65221.
+- 😄 Pronouns:You can give one.
+- ⚡ Fun fact:I can work and dance at the same time.
+
 
 <!--
 **PRANGYA-02/PRANGYA-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
